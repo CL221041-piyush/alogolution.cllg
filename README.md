@@ -1,1 +1,1 @@
-# alogolution.cllg
+set 2 algolution
